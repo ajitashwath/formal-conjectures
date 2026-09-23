@@ -152,6 +152,9 @@ public import FormalConjecturesForMathlib.LinearAlgebra.AffineSpace.Simplex.Basi
 public import FormalConjecturesForMathlib.LinearAlgebra.GeneralLinearGroup
 public import FormalConjecturesForMathlib.LinearAlgebra.SpecialLinearGroup
 public import FormalConjecturesForMathlib.Logic.Equiv.Fin.Rotate
+public import FormalConjecturesForMathlib.ModelTheory.Decidability
+public import FormalConjecturesForMathlib.ModelTheory.Encoding
+public import FormalConjecturesForMathlib.ModelTheory.Real
 public import FormalConjecturesForMathlib.NumberTheory.AdditionChain
 public import FormalConjecturesForMathlib.NumberTheory.AdditiveComplement
 public import FormalConjecturesForMathlib.NumberTheory.AdditivelyComplete
@@ -195,6 +198,7 @@ public import FormalConjecturesForMathlib.RingTheory.Bialgebra.TrivialModule
 public import FormalConjecturesForMathlib.RingTheory.Ideal.Basic
 public import FormalConjecturesForMathlib.RingTheory.Ideal.Defs
 public import FormalConjecturesForMathlib.RingTheory.Ideal.Maximal
+public import FormalConjecturesForMathlib.RingTheory.IntersectionMultiplicity
 public import FormalConjecturesForMathlib.RingTheory.Noetherian.Defs
 public import FormalConjecturesForMathlib.RingTheory.Valuation.LocalUniformization
 public import FormalConjecturesForMathlib.SetTheory.Cardinal.Arithmetic
